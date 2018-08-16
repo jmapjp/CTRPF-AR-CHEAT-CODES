@@ -1,4 +1,4 @@
-++Misc++]
+[++Misc++]
 
 [Max Lives after losing]
 DD000000 00000000
